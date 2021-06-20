@@ -4,6 +4,10 @@
 
 ### Sometimes i write at :point_right: [Click Here](https://mahipal.dev) ✨
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nameismahipal&label=Profile%20views&color=0e75b6&style=flat" alt="nameismahipal" /> </p>
+
+<p align="left"> <a href="https://twitter.com/nameismahipal" target="blank"><img src="https://img.shields.io/twitter/follow/nameismahipal?logo=twitter&style=for-the-badge" alt="nameismahipal" /></a> </p>
+
 <!--
 **nameismahipal/nameismahipal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
