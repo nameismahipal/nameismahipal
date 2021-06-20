@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+<h1 align="center">Hi 👋, This is Mahipal </h1>
+
+### Sometimes i write at :point_right: [Click Here](https://mahipal.dev) ✨
 
 <!--
 **nameismahipal/nameismahipal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
